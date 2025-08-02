@@ -106,6 +106,6 @@
 
 
 
-## 📌 Citation and Feedback
+## Citation and Feedback
 
-[TODO] bibtex for citation
+[TODO] bibtex for citation, and welcome for feedback
