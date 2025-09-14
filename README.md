@@ -5,7 +5,7 @@
 
 [TO-DO] continuous updating and welcome to contribute and suggest. 
 <p align="center">
-  <img src="Figs/treemap.pdf" alt="Treemap visualization of shift-left EDA techniques" width="80%"/>
+  <img src="Figs/treemap.png" alt="Treemap visualization of shift-left EDA techniques" width="80%"/>
 </p>
 
 
@@ -385,8 +385,8 @@
 ### Physical Verification
 - (2024) Cadence Design Systems, Inc. Product Page: Innovus Implementation System [[link](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html)]
 - (2024) Siemens EDA Technical Report: Calibre Shift Left Solutions Optimize IC Design Flow Productivity [[link](https://resources.sw.siemens.com/zh-CN/technical-paper-calibre-shift-left-solutions-optimize-ic-design-flow-productivity-design/)]
-- (2021) Siemens Digital Industries Software Technical Paper: A Game Changer for IP Designers: Design-Stage Verification [[paper](https://resources.sw.siemens.com/zh-TW/technical-paper-a-game-changer-for-ip-designers-design-stage-verification/)]
-- (2019) Synopsys, Inc. Technical Report: Faster and Smarter LVS for the SoC Era: Introducing Explorer LVS [[paper](https://www.synopsys.com/content/dam/synopsys/implementation&signoff/white-papers/explorer-lvs-wp.pdf)]
+- (2021) Siemens Digital Industries Software Technical Paper: A Game Changer for IP Designers: Design-Stage Verification [[link](https://resources.sw.siemens.com/zh-TW/technical-paper-a-game-changer-for-ip-designers-design-stage-verification/)]
+- (2019) Synopsys, Inc. Technical Report: Faster and Smarter LVS for the SoC Era: Introducing Explorer LVS [[link](https://www.synopsys.com/content/dam/synopsys/implementation&signoff/white-papers/explorer-lvs-wp.pdf)]
 
 
 ## Citation and Feedback
