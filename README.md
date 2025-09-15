@@ -5,16 +5,36 @@
 
 We designed it to be a living, up-to-date resource that provides a comprehensive overview of the field related to shift-left techniques in electronic design automation. 
 
-We're dedicated to **updating it with the latest research advances** but we believe that keeping this resource current is a community effort, and we warmly **invite your participation**. If you find a valuable paper or resource we've missed, please feel free to contact us and submit a pull request to keep it up to date. 
+We're dedicated to **updating it with the latest research advances** but we believe that keeping this resource current requires community effort, and we warmly **invite your participation**. 
 
-
+If you find a valuable related paper or resource we've missed, please feel free to **contact us** via email at [xinfei.guo@sjtu.edu.cn](mailto:xinfei.guo@sjtu.edu.cn) or [hu-fan@sjtu.edu.cn](mailto:hu-fan@sjtu.edu.cn) and **submit a pull request** to keep this repository up to date. 
 
 
 ## Introduction
-The chip design process involves numerous steps, beginning with defining product requirements and progressing through architectural planning, system-level design, and the physical layout of individual circuit blocks. As the enablers of large-scale chip development, Electronic Design Automation (EDA) tools play a vital role in helping designers achieve high-quality results. The Shift-Left methodology introduces a pathway toward creating digital twins and fusing multiple design steps, thereby transitioning traditionally sequential, physically-aware processes into virtual design environments. This shift allows designers to establish stronger correlations earlier and optimize designs more effectively. However, challenges remain, especially in accurately replicating downstream behaviors and determining the right scope and timing for adoption. These challenges, in turn, have revealed new opportunities for EDA vendors, physical designers, and logic designers alike. As the industry advances toward intelligent EDA tools and techniques, it is timely to reflect on Shift-Left progress made and the challenges that remain. The rise of AI techniques and the momentum of open-source design flows have significantly strengthened prediction and modeling capabilities, making data-driven methods increasingly relevant to the EDA community. This, in turn, enhances the ``Shift-Left'' features embedded in current tools. In this paper, we present a comprehensive survey of existing and emerging paradigms in Shift-Left research within EDA and the broader design ecosystem. Our goal is to provide a unique perspective on the state of the field and its future directions. 
+The chip design process involves numerous steps, beginning with defining product requirements and progressing through architectural planning, system-level design, and the physical layout of individual circuit blocks. As the enablers of large-scale chip development, Electronic Design Automation (EDA) tools play a vital role in helping designers achieve high-quality results. The Shift-Left methodology introduces a pathway toward creating digital twins and fusing multiple design steps, thereby transitioning traditionally sequential, physically-aware processes into virtual design environments. This shift allows designers to establish stronger correlations earlier and optimize designs more effectively. However, challenges remain, especially in accurately replicating downstream behaviors and determining the right scope and timing for adoption. These challenges, in turn, have revealed new opportunities for EDA vendors, physical designers, and logic designers alike. As the industry advances toward intelligent EDA tools and techniques, it is timely to reflect on Shift-Left progress made and the challenges that remain. The rise of AI techniques and the momentum of open-source design flows have significantly strengthened prediction and modeling capabilities, making data-driven methods increasingly relevant to the EDA community. This, in turn, enhances the "Shift-Left" features embedded in current tools. In this paper, we present a comprehensive survey of existing and emerging paradigms in Shift-Left research within EDA and the broader design ecosystem. Our goal is to provide a unique perspective on the state of the field and its future directions. 
+<!-- <p align="center">
+  <img src="Figs/treemap.png" alt="Treemap visualization of shift-left EDA techniques" width="100%"/>
+</p> -->
+<p align="center">
+  <strong>A taxonomy of Shift-Left techniques reviewed in this paper</strong>
+</p>
+
 <p align="center">
   <img src="Figs/treemap.png" alt="Treemap visualization of shift-left EDA techniques" width="100%"/>
 </p>
+
+In this figure, we present a taxonomy of Shift-Left techniques reviewed in this survey paper. *A **Virtual Prototype (VP)*** creates digital twins that predict downstream behaviors, while ***Fused Actions (FAs)** integrate later design stages with earlier steps to accelerate convergence.*
+
+<p align="center">
+  <strong>Grouped Anchor Points in the EDA Design Flow</strong>
+</p>
+
+<p align="center">
+  <img src="Figs/EDA_flow.png" alt="EDA flow" width="100%"/>
+</p>
+
+To provide a comprehensive overview of EDA design stages in our survey, we establish ***anchor points (AP)*** within the design flow to track and quantify "Shift-Left" movements as shown in the table above. These anchor points represent **key, well-defined stages** in a typical EDA flow, mapping the progression from early design phases to final signoff in a standard digital design workflow.
+
 
 ## Table of Contents
 
@@ -135,7 +155,7 @@ The chip design process involves numerous steps, beginning with defining product
 - (2020) Asia and South Pacific Design Automation Conference (ASP-DAC): FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning [[paper](https://ieeexplore.ieee.org/abstract/document/9045201)]
 - (2021) IEEE/ACM International Conference On Computer Aided Design (ICCAD): Fast and Accurate PPA Modeling with Transfer Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9643533)]
 - (2023) ACM/IEEE Workshop on Machine Learning for CAD (MLCAD): ASAP: Accurate Synthesis Analysis and Prediction with Multi-Task Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10299840)]
-- (2021) Synopsys, Inc. Technical Report: Shift Left with RTL Architect for Faster Time-to-Results
+- (2023) Synopsys, Inc. Technical Report: Achieving Consistent RTL Power Accuracy [[link](https://www.synopsys.com/energy-efficient/achieving-consistent-rtl-power-accuracy.html)]
 - (2025) arXiv: CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design [[paper](https://arxiv.org/abs/2505.02168)]
 - (2025) arXiv: The Graph’s Apprentice: Teaching an LLM Low Level Knowledge for Circuit Quality Estimation [[paper](https://arxiv.org/abs/2411.00843)]
 - (2025) IEEE/ACM International Conference on Computer-Aided Design (ICCAD): RTLRewriter: Methodologies for Large Models aided RTL Code Optimization [[paper](https://dl.acm.org/doi/abs/10.1145/3676536.3676775)]
@@ -238,7 +258,7 @@ The chip design process involves numerous steps, beginning with defining product
 - (2024) IEEE/ACM International Conference on Computer-Aided Design (ICCAD): ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC [[paper](https://dl.acm.org/doi/abs/10.1145/3676536.3676648)]
 - (2007) Asia and South Pacific Design Automation Conference (ASP-DAC): Noise-Direct: A Technique for Power Supply Noise Aware Floorplanning Using Microarchitecture Profiling [[paper](https://ieeexplore.ieee.org/abstract/document/4196131)]
 - (2006) IEEE/ACM International Conference on Computer-Aided Design (ICCAD): Voltage Island Aware Floorplanning for Power and Timing Optimization [[paper](https://dl.acm.org/doi/abs/10.1145/1233501.1233579)]
-- (2019) Cadence Press Release: Cadence Launches Celsius Thermal Solver
+- (2019) Cadence Press Release: Cadence Launches Celsius Thermal Solver [[link](https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2019/cadence-launches-celsius-thermal-solver--delivering-the-industry.html)]
 ### EM/IR-Aware FP
 - (1999) Annual Design Automation Conference (DAC): A Floorplan-Based Planning Methodology for Power and Clock Distribution in ASICs [[paper](https://dl.acm.org/doi/abs/10.1145/309847.310054)]
 - (2001) Asia and South Pacific Design Automation Conference (ASP-DAC): Integrated Power Supply Planning and Floorplanning [[paper](https://dl.acm.org/doi/abs/10.1145/370155.370539)]
@@ -392,6 +412,14 @@ The chip design process involves numerous steps, beginning with defining product
 - (2021) Siemens Digital Industries Software Technical Paper: A Game Changer for IP Designers: Design-Stage Verification [[link](https://resources.sw.siemens.com/zh-TW/technical-paper-a-game-changer-for-ip-designers-design-stage-verification/)]
 - (2019) Synopsys, Inc. Technical Report: Faster and Smarter LVS for the SoC Era: Introducing Explorer LVS [[link](https://www.synopsys.com/content/dam/synopsys/implementation&signoff/white-papers/explorer-lvs-wp.pdf)]
 
+## Industrial Trend
+- (2019) Cadence Press Release: Cadence Launches Celsius Thermal Solver [[link](https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2019/cadence-launches-celsius-thermal-solver--delivering-the-industry.html)]
+- (2023) Synopsys, Inc. Technical Report: Achieving Consistent RTL Power Accuracy [[link](https://www.synopsys.com/energy-efficient/achieving-consistent-rtl-power-accuracy.html)]
+- (2021) Siemens EDA Technical Report: Shifting Left In P&R With In-Design Signoff Fill For Faster And More Accurate Tapeouts [[paper](https://semiengineering.com/shifting-left-in-pr-with-in-design-signoff-fill-for-faster-and-more-accurate-tapeouts/)]
+- (2024) Cadence Design Systems, Inc. Product Page: Innovus Implementation System [[link](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html)]
+- (2024) Siemens EDA Technical Report: Calibre Shift Left Solutions Optimize IC Design Flow Productivity [[link](https://resources.sw.siemens.com/zh-CN/technical-paper-calibre-shift-left-solutions-optimize-ic-design-flow-productivity-design/)]
+- (2021) Siemens Digital Industries Software Technical Paper: A Game Changer for IP Designers: Design-Stage Verification [[link](https://resources.sw.siemens.com/zh-TW/technical-paper-a-game-changer-for-ip-designers-design-stage-verification/)]
+- (2019) Synopsys, Inc. Technical Report: Faster and Smarter LVS for the SoC Era: Introducing Explorer LVS [[link](https://www.synopsys.com/content/dam/synopsys/implementation&signoff/white-papers/explorer-lvs-wp.pdf)]
 
 ## Citation and Feedback
 
