@@ -16,14 +16,14 @@ The chip design process involves numerous steps, beginning with defining product
   <img src="Figs/treemap.png" alt="Treemap visualization of shift-left EDA techniques" width="100%"/>
 </p> -->
 <p align="center">
-  <strong>A taxonomy of Shift-Left techniques reviewed in this paper</strong>
+  <strong>A Taxonomy of Shift-Left Techniques Reviewed in This Paper</strong>
 </p>
 
 <p align="center">
   <img src="Figs/treemap.png" alt="Treemap visualization of shift-left EDA techniques" width="100%"/>
 </p>
 
-In this figure, we present a taxonomy of Shift-Left techniques reviewed in this survey paper. *A **Virtual Prototype (VP)*** creates digital twins that predict downstream behaviors, while ***Fused Actions (FAs)** integrate later design stages with earlier steps to accelerate convergence.*
+In this figure, we present a taxonomy of Shift-Left techniques reviewed in this survey paper. *A **Virtual Prototypes (VPs)*** creates digital twins that predict downstream behaviors, while ***Fused Actions (FAs)** integrate later design stages with earlier steps to accelerate convergence.*
 
 <p align="center">
   <strong>Grouped Anchor Points in the EDA Design Flow</strong>
@@ -415,7 +415,7 @@ To provide a comprehensive overview of EDA design stages in our survey, we estab
 ## Industrial Trend
 - (2019) Cadence Press Release: Cadence Launches Celsius Thermal Solver [[link](https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2019/cadence-launches-celsius-thermal-solver--delivering-the-industry.html)]
 - (2023) Synopsys, Inc. Technical Report: Achieving Consistent RTL Power Accuracy [[link](https://www.synopsys.com/energy-efficient/achieving-consistent-rtl-power-accuracy.html)]
-- (2021) Siemens EDA Technical Report: Shifting Left In P&R With In-Design Signoff Fill For Faster And More Accurate Tapeouts [[paper](https://semiengineering.com/shifting-left-in-pr-with-in-design-signoff-fill-for-faster-and-more-accurate-tapeouts/)]
+- (2021) Siemens EDA Technical Report: Shifting Left In P&R With In-Design Signoff Fill For Faster And More Accurate Tapeouts [[link](https://semiengineering.com/shifting-left-in-pr-with-in-design-signoff-fill-for-faster-and-more-accurate-tapeouts/)]
 - (2024) Cadence Design Systems, Inc. Product Page: Innovus Implementation System [[link](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/innovus-implementation-system.html)]
 - (2024) Siemens EDA Technical Report: Calibre Shift Left Solutions Optimize IC Design Flow Productivity [[link](https://resources.sw.siemens.com/zh-CN/technical-paper-calibre-shift-left-solutions-optimize-ic-design-flow-productivity-design/)]
 - (2021) Siemens Digital Industries Software Technical Paper: A Game Changer for IP Designers: Design-Stage Verification [[link](https://resources.sw.siemens.com/zh-TW/technical-paper-a-game-changer-for-ip-designers-design-stage-verification/)]
