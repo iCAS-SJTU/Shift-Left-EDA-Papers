@@ -1,16 +1,20 @@
 # Shift Left Techniques in Electronic Design Automation: A Survey
 
 
-[TO-DO] welcome paragraph and simple introduction of the survey, together with arxiv link.
+👏 Welcome to the official repository for the survey paper [[Archive]()]! 
 
-[TO-DO] continuous updating and welcome to contribute and suggest. 
-<p align="center">
-  <img src="Figs/treemap.png" alt="Treemap visualization of shift-left EDA techniques" width="80%"/>
-</p>
+We designed it to be a living, up-to-date resource that provides a comprehensive overview of the field related to shift-left techniques in electronic design automation. 
+
+We're dedicated to **updating it with the latest research advances** but we believe that keeping this resource current is a community effort, and we warmly **invite your participation**. If you find a valuable paper or resource we've missed, please feel free to contact us and submit a pull request to keep it up to date. 
+
+
 
 
 ## Introduction
 
+<p align="center">
+  <img src="Figs/treemap.png" alt="Treemap visualization of shift-left EDA techniques" width="100%"/>
+</p>
 
 ## Table of Contents
 
