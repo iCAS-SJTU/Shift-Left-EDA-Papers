@@ -1,4 +1,4 @@
-# Shift Left Techniques in Electronic Design Automation: A Survey
+# Shift-Left Techniques in Electronic Design Automation: A Survey
 
 
 👏 Welcome to the official repository for the survey paper [[Archive]()]! 
