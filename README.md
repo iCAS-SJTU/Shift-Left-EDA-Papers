@@ -72,6 +72,7 @@ To provide a comprehensive overview of EDA design stages in our survey, we estab
 - [Shift-Left for Verification and Testing](#shift-left-for-verification-and-testing)
     - [Formal Verification](#formal-verification)
     - [Physical Verification](#physical-verification)
+- [Industrial Trends](#industrial-trends)
 
 
 
@@ -412,7 +413,7 @@ To provide a comprehensive overview of EDA design stages in our survey, we estab
 - (2021) Siemens Digital Industries Software Technical Paper: A Game Changer for IP Designers: Design-Stage Verification [[link](https://resources.sw.siemens.com/zh-TW/technical-paper-a-game-changer-for-ip-designers-design-stage-verification/)]
 - (2019) Synopsys, Inc. Technical Report: Faster and Smarter LVS for the SoC Era: Introducing Explorer LVS [[link](https://www.synopsys.com/content/dam/synopsys/implementation&signoff/white-papers/explorer-lvs-wp.pdf)]
 
-## Industrial Trend
+## Industrial Trends
 - (2019) Cadence Press Release: Cadence Launches Celsius Thermal Solver [[link](https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2019/cadence-launches-celsius-thermal-solver--delivering-the-industry.html)]
 - (2023) Synopsys, Inc. Technical Report: Achieving Consistent RTL Power Accuracy [[link](https://www.synopsys.com/energy-efficient/achieving-consistent-rtl-power-accuracy.html)]
 - (2021) Siemens EDA Technical Report: Shifting Left In P&R With In-Design Signoff Fill For Faster And More Accurate Tapeouts [[link](https://semiengineering.com/shifting-left-in-pr-with-in-design-signoff-fill-for-faster-and-more-accurate-tapeouts/)]
