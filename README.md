@@ -72,6 +72,7 @@ To provide a comprehensive overview of EDA design stages in our survey, we estab
     - [Formal Verification](#formal-verification)
     - [Physical Verification](#physical-verification)
 - [Industrial Trends](#industrial-trends)
+- [Citation and Feedback] (#citation-and-feedback)
 
 
 
