@@ -438,4 +438,4 @@ Below is the **BibTeX** citation of this survey paper:
 ```
 
 
-We also sincerely welcome your feedback and suggestions! Please don’t hesitate to **reach out** to us via email at [xinfei.guo@sjtu.edu.cn](mailto:xinfei.guo@sjtu.edu.cn) or [hu-fan@sjtu.edu.cn](mailto:hu-fan@sjtu.edu.cn). To provide new materials, you are welcome to **submit a pull request** to maintain this repository’s currency.
+We also sincerely welcome your feedback and suggestions! Please don’t hesitate to **reach out** to us via email at [xinfei.guo@sjtu.edu.cn](mailto:xinfei.guo@sjtu.edu.cn) or [hu-fan@sjtu.edu.cn](mailto:hu-fan@sjtu.edu.cn). To contribute new materials to this repository, you are welcome to **submit a pull request** to maintain this repository’s currency.
