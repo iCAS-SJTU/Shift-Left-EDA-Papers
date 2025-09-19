@@ -1,7 +1,7 @@
 # Shift Left Techniques in Electronic Design Automation: A Survey
 
 
-👏 Welcome to the official repository for the survey paper: [Shift Left Techniques in Electronic Design Automation: A Survey ](https://arxiv.org/abs/2509.14551)! 
+👏 Welcome to the official repository for the survey paper [[Archive]()]! 
 
 We designed it to be a living, up-to-date resource that provides a comprehensive overview of the field related to shift-left techniques in electronic design automation. 
 
@@ -424,20 +424,4 @@ To provide a comprehensive overview of EDA design stages in our survey, we estab
 
 ## Citation and Feedback
 
-If you find this work valuable, welcome to cite it to foster further progress in this area! 
-
-Below is the **BibTeX** citation of this survey paper: 
-```
-@misc{wu2025shiftlefttechniqueselectronicdesign,
-      title={Shift-Left Techniques in Electronic Design Automation: A Survey}, 
-      author={Xinyue Wu and Zixuan Li and Fan Hu and Ting Lin and Xiaotian Zhao and Runxi Wang and Xinfei Guo},
-      year={2025},
-      eprint={2509.14551},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR},
-      url={https://arxiv.org/abs/2509.14551}, 
-}
-```
-
-
-We also sincerely welcome your feedback and suggestions！ Please don’t hesitate to **reach out** to us via email at [xinfei.guo@sjtu.edu.cn](mailto:xinfei.guo@sjtu.edu.cn) or [hu-fan@sjtu.edu.cn](mailto:hu-fan@sjtu.edu.cn). To provide new materials, you are welcome to submit a pull request to maintain this repository’s currency.
+[TODO] bibtex for citation, and welcome for feedback
