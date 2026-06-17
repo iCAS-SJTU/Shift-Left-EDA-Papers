@@ -1,6 +1,6 @@
 # Shift Left Techniques in Electronic Design Automation: A Survey
 
-👏 Welcome to the official repository for the survey paper: [Shift Left Techniques in Electronic Design Automation: A Survey ](https://arxiv.org/abs/2509.14551)! 
+👏 Welcome to the official repository for the survey paper: [Shift Left Techniques in Electronic Design Automation: A Survey ](https://dl.acm.org/doi/10.1145/3819588)! 
 
 We designed it to be a living, up-to-date resource that provides a comprehensive overview of the field related to shift-left techniques in electronic design automation. 
 
