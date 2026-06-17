@@ -427,14 +427,12 @@ If you find this work valuable, welcome to cite it to foster further progress in
 
 Below is the **BibTeX** citation of this survey paper: 
 ```
-@misc{wu2025shiftlefttechniqueselectronicdesign,
-      title={Shift-Left Techniques in Electronic Design Automation: A Survey}, 
-      author={Xinyue Wu and Zixuan Li and Fan Hu and Ting Lin and Xiaotian Zhao and Runxi Wang and Xinfei Guo},
-      year={2025},
-      eprint={2509.14551},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR},
-      url={https://arxiv.org/abs/2509.14551}, 
+@article{wu2026shift,
+  title={Shift-Left Techniques in Electronic Design Automation: A Survey},
+  author={Wu, Xinyue and Li, Zixuan and Hu, Fan and Lin, Ting and Wang, Runxi and Zhao, Xiaotian and Guo, Xinfei},
+  journal={ACM Computing Surveys},
+  year={2026},
+  publisher={ACM New York, NY}
 }
 ```
 
